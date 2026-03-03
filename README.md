@@ -1,2 +1,1 @@
-# modelamiento_computacional
-Modelamiento Computacional
+# Modelamiento Computacional
